@@ -1,3 +1,8 @@
+## **[hermes-agent-infra](https://github.com/liminal-still-exists/hermes-agent-infra)**
+
+- 상시 진행
+- Hermes Agent를 운영하기 위한 전체 시스템 인프라 구성을 설명하는 저장소.
+
 ## **[my-rag-mcp](https://github.com/liminal-still-exists/my-rag-mcp)** 
 
 - 2026년 3월
